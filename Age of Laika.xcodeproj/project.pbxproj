@@ -13,6 +13,7 @@
 		83E5EA331A16A54C00A5752D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83E5EA321A16A54C00A5752D /* Images.xcassets */; };
 		83E5EA361A16A54C00A5752D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83E5EA341A16A54C00A5752D /* LaunchScreen.xib */; };
 		83E5EA421A16A54C00A5752D /* Age_of_LaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E5EA411A16A54C00A5752D /* Age_of_LaikaTests.swift */; };
+		83E5EA4C1A16A58B00A5752D /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83E5EA4B1A16A58B00A5752D /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		83E5EA3B1A16A54C00A5752D /* Age of LaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Age of LaikaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83E5EA401A16A54C00A5752D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83E5EA411A16A54C00A5752D /* Age_of_LaikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age_of_LaikaTests.swift; sourceTree = "<group>"; };
+		83E5EA4B1A16A58B00A5752D /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		83E5EA3F1A16A54C00A5752D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				83E5EA4B1A16A58B00A5752D /* AgeOfLaika.jpg */,
 				83E5EA401A16A54C00A5752D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -202,6 +205,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83E5EA4C1A16A58B00A5752D /* AgeOfLaika.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
